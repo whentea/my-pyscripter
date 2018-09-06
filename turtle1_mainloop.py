@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1  let's play turtle
+# Name:        module1 : module, object, methods
 # Purpose:
 #
 # Author:      ASUS
